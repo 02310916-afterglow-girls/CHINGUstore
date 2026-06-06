@@ -1,0 +1,154 @@
+<img src="imagen/logo chingu.png" width="100%" ALIGN="MIDDLE">
+<h1 align="center">CATALOGO DE VARIEDAD</h1>
+</tr>
+</table><br>
+<table width=80% align=center border=3>
+    <tr>
+        <td><img src="imagen/elado elote.jpg" width="100%"></td>
+        <td> ELADO DE ELOTE
+             <ul>
+                    <li>Sabor maiz dulce</li>
+                    <li>De corea</li>
+                    <li>Original</li>
+                    <li>Cremoso</li>
+                    <li>Con trosos de elote</li>
+                    <li>Chocolate y leche congelada</li>
+                    <li>100 MXN</li>
+            </ul>
+        </td>
+         <td><img src="imagen/llaveros de bp.jpg" width="100%"></td>
+         <td> LLAVEROS DE BLACKPINK
+             <ul>
+                    <li>4 llaveros de goma</li>
+                    <li>De 7 a 12 cm de altura</li>
+                    <li>Para bolsos o mochilas</li>
+                    <li>Ligeros y duraderos</li>
+                    <li>Ganchos metalicos</li>
+                    <li>Resistentes a caidas y uso diario</li>
+                    <li>650 MXN</li>
+             </ul>
+         </td> 
+         <td><img src="imagen/ramen de taco.jpg" width="100%"></td>
+         <td>RAMEN BULDAK 
+             <ul>
+                    <li>Sabor a taco </li>
+                    <li>Picoso</li>
+                    <li>Sopa instantanea</li>
+                    <li>Carne molida,al pastore o birria</li>
+                    <li>continene vegetales secos</li>
+                    <li>Sobre de salsa</li>   
+                    <li>60 MXN</li>  
+             </ul>
+         </td>
+    </tr>
+    <tr>
+        <td><img src="imagen/photocars de bp.jpg" width="80%"></td>
+        <td>PHOTOCARDS DE BLACKPINK
+            <ul>
+                    <li>Con las 4 miembros</li>
+                    <li>De la era Born Pink</li>
+                    <li>Fotos conseptuales</li>
+                    <li>Originales</li>
+                    <li>De corea</li>
+                    <li>Un Paquete</li> 
+                    <li>120 MXN</li>
+            </ul>
+        </td> 
+        <td><img src="imagen/gold itzy.jpg" width="100%"></td>
+        <td>ALBUM GOLD DE ITZY
+            <ul>
+                    <li>Disco CD</li>
+                    <li>Libro de 72 paginas</li>
+                    <li>Photocard aleatoria</li>
+                    <li>Poster plegado</li>
+                    <li>Pegatinas</li>
+                    <li>1250 MXN</li>
+            </ul>  
+        </td>
+        <td><img src="imagen/ramen shin.jpg" width="100%"></td>
+        <td>RAMEN PICANTE 
+            <ul>
+                    <li>Sabor tradicional</li>
+                    <li>Toque picoso</li>
+                    <li>Original</li>
+                    <li>Coreano</li>
+                    <li>Textura suave</li>
+                    <li>60 MXN</li>
+            </ul>     
+        </td>
+    </tr>
+    <tr>
+        <td><img src="imagen/bebidas.jpg" width="100%"></td>
+        <td>BEBIDAS FRIAS COREANAS 
+            <ul>
+                    <li>De sabores</li>
+                    <li>Original</li>
+                    <li>De corea</li>
+                    <li>6 sabores</li>
+                    <li>Cafe,uva,chocolate,melocoton etc</li>
+                    <li>450 MXN</li>
+            </ul>
+        </td>
+        <td><img src="imagen/album ive revive.jpg" width="100%"></td>
+        <td>ALBUM REVIVE DE IVE
+            <ul>
+                    <li>CD y sobre</li>
+                    <li>Libro de 64 paginas</li>
+                    <li>4 Photocards aleatorias</li>
+                    <li>Poster plegado</li>
+                    <li>Dos stickers con simbolos</li>
+                    <li>1290 MXN</li>
+            </ul>
+        </td>
+        <td><img src="imagen/soju.jpg" width="100%"></td>
+        <td>BEBIDA ALCOHOLICA SOJU
+            <ul>
+                    <li>6 sabores</li>
+                    <li>6 botellass</li>
+                    <li>Fresa,durasno,uva,limon,mango y frambueza</li>
+                    <li>De corea</li>
+                    <li>Tradicional</li>
+                    <li>650 MXN</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>   
+    <td><img src="imagen/topokki.jpg" width="100%"></td>
+    <td>TOPOKKI
+            <ul>
+                    <li>Picante</li>
+                    <li>hecho a vace de pasteles de aroz</li>
+                    <li>Salsa espesa</li>
+                    <li>Tradicional coreano</li>
+                    <li>Pasta de chile rojo</li>
+                    <li>150</li>
+            </ul>
+        </td>
+        <td><img src="imagen/ramen tonkotsu.jpg" width="100%"></td>
+        <td>RAMEN TONKOTSU
+            <ul>
+                    <li>Agridulce</li>
+                    <li>Suave</li>
+                    <li>Una pisca picante</li>
+                    <li>Coreano</li>
+                    <li>Original</li>
+                    <li>70 MXN</li>
+            </ul>
+        </td>
+        <td><img src="imagen/ke1per.jpg" width="100%"></td>
+        <td>ALBUM KE1PER 
+            <ul>
+                    <li>Disco CD</li>
+                    <li>Photobook 90 paginas</li>
+                    <li>2 tarjetas aleatorias</li>
+                    <li>Poster plegado</li>
+                    <li>Tarjeta de mensaje</li>
+                    <li>500 MXN</li>
+            </ul>
+        </td> 
+    </tr> 
+    </table><br>    
+    <body bgcolor="C0C0C0"></body>
+    </tr>
+  
+</table>

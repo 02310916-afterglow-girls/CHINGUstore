@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Calibri Light";
+}
+
+.contenedor{
+    background: tomato;
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    height: 400px;
+    background-image: url("../img/portada.jpg");
+    background-position:center;
+    background-size: cover;
+}
+
+main{
+    background: white;
+    padding: 20px 30px;
+    background-color: rgb(160, 139, 194);
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: royalblue;
+    border: 6px solid #108f1a;
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #ffffff;
+}
+
+main .foto img{
+    width:100%;
+    border-radius: 50%;
+}
+
+
+footer{
+    background: rgb(147, 76, 168);
+    text-align: center;
+    text-align: teal;
+    padding: 25px;
+    color: #ffffff;
+}
+    
